@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
         <meta property="fc:frame:image" content="https://placehold.co/600x400?text=Vote+Now!" />
         <meta property="fc:frame:button:1" content="Yes (${yesVotes})" />
         <meta property="fc:frame:button:2" content="No (${noVotes})" />
-        <meta property="fc:frame:post_url" content="https://your-vercel-url.vercel.app/vote" />
+        <meta property="fc:frame:post_url" content="https://voting-frame-lqblje6yb-naflans-projects.vercel.app/" />
       </head>
       <body></body>
     </html>
