@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
       <head>
         <meta property="og:title" content="Vote Now!" />
         <meta property="fc:frame" content="vNext" />
-        <meta property="fc:frame:image" content="https://placehold.co/600x400?text=Vote+Now!" />
+        <meta property="fc:frame:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Question_mark_in_circle.svg/1024px-Question_mark_in_circle.svg.png" />
         <meta property="fc:frame:button:1" content="Yes (${yesVotes})" />
         <meta property="fc:frame:button:2" content="No (${noVotes})" />
         <meta property="fc:frame:post_url" content="https://voting-frame-lqblje6yb-naflans-projects.vercel.app/" />
